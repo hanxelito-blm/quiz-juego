@@ -1,0 +1,87 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el nombre del juego?",
+      "options": ["Snake", "Pac-Man", "Tetris", "Mario"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "¿Qué lenguaje de programación se usa en este proyecto?",
+      "options": ["Java", "Python", "JavaScript", "C++"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué framework de enrutamiento se utiliza?",
+      "options": ["Vue Router", "React Router", "Angular Router", "Next.js"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la herramienta de automatización usada?",
+      "options": ["Zapier", "n8n", "Make", "Power Automate"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "¿Qué hook de React se usa para efectos secundarios?",
+      "options": ["useState", "useEffect", "useRef", "useContext"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Qué herramienta de empaquetado usa este proyecto?",
+      "options": ["Webpack", "Parcel", "Vite", "Rollup"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "¿Con qué teclas se mueve la serpiente?",
+      "options": ["Click del ratón", "Flechas o WASD", "Barra espaciadora", "Números 1-4"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "¿Qué pasa si la serpiente toca un obstáculo?",
+      "options": ["Rebota", "Pierde", "Gana puntos", "Se hace más rápida"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "¿Qué pasa si la serpiente toca los bordes del mapa?",
+      "options": ["Aparece por el otro lado", "Pierde la partida", "Se detiene", "Gana una vida"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es el color principal de la serpiente del jugador?",
+      "options": ["Rojo", "Verde", "Amarillo/Dorado", "Azul"],
+      "answer": 2
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "playerName": "Demo Player",
+      "score": 500,
+      "level": 1,
+      "date": "2026-09-21T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "playerName": "Pro Gamer",
+      "score": 1200,
+      "level": 2,
+      "date": "2026-09-21T09:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "playerName": "Snake Master",
+      "score": 2500,
+      "level": 3,
+      "date": "2026-09-21T08:00:00.000Z"
+    }
+  ]
+}
